@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nl-orange: #FFB800;
+  --color-nl-blue: #003087;
+  --color-nl-gold: #ffe7a3;
+  --color-nl-white: #fff;
+  --color-nl-test: #ff00ff;
+}
